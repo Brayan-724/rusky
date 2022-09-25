@@ -1,0 +1,3 @@
+[submodule "rusky-request"]
+	path = rusky-request
+	url = https://github.com/SkyCode-Graphics/rusky-request.git
