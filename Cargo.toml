@@ -1,4 +1,5 @@
-[workspaces]
+[workspace]
 members = [
-  "rusky-request"
+  "rusky-request",
+  "rusky-icons",
 ]

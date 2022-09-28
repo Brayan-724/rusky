@@ -2,3 +2,6 @@
 	path = rusky-request
   url = https://github.com/SkyCode-Graphics/rusky-request.git
   branch = main
+[submodule "rusky-icons"]
+	path = rusky-icons
+	url = https://github.com/SkyCode-Graphics/rusky-icons.git
