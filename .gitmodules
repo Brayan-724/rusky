@@ -1,7 +1,7 @@
 [submodule "rusky-request"]
 	path = rusky-request
-  url = https://github.com/SkyCode-Graphics/rusky-request.git
+  url = https://github.com/Brayan-724/rusky-request.git
   branch = main
 [submodule "rusky-icons"]
 	path = rusky-icons
-	url = https://github.com/SkyCode-Graphics/rusky-icons.git
+	url = https://github.com/Brayan-724/rusky-icons.git
